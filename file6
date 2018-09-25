@@ -10,3 +10,8 @@ p = 456
 
 def addop(o,p):
     return o+p
+m = 789
+n = 101112
+
+def addmn(m,n):
+    return m+n
