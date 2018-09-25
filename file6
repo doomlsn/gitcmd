@@ -4,3 +4,9 @@ c=a+b
 e=a*b
 no, I think c=a-b
 and d=a+b
+
+o = 123
+p = 456
+
+def addop(o,p):
+    return o+p
