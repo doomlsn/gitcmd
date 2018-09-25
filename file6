@@ -2,3 +2,5 @@ a=1
 b=2
 c=a+b
 e=a*b
+no, I think c=a-b
+and d=a+b
