@@ -4,3 +4,9 @@ c=a+b
 e=a*b
 no, I think c=a-b
 and d=a+b
+
+m = 789
+n = 101112
+
+def addmn(m,n):
+    return m+n
